@@ -1,12 +1,6 @@
 # Data Analyst
-Data Analyst
-##work experience 
-##working at NBS
-##worked at batnon
-##did this in school
-## a
-###dhdguhdg
-### msiish
-### jbjddd
-### hdduueg
-#### sugdugduh
+## Education
+-Google professional data analytics 
+-Udemy professional data science
+-Microsft scholarship programe
+
