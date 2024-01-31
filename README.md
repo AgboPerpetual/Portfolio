@@ -1,4 +1,4 @@
-# Data Analyst
+# MY PORTFOLIO
 ## Education
 
 ### Google Data analytics Certification, Coursera 2023
@@ -12,5 +12,8 @@ Curriculum: Comprehensive training in data analysis, machine learning and data v
 
 ### Digital Marketing Certification, Google Scholarship Program on Coursera 2022
 Curriculum: Fundamentals in Digital Marketing, Marketing analytics and measurement, Email Marketing
+
+
+# PROJECTS
 
 
