@@ -6,7 +6,7 @@
 Curriculum: Data Collection, data cleaning with excel and SQL, analyzing data with R programming, Data visualization       using excel, Tableau and R. Completed hands-on project using real world data.
 
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="Asset/Cert_image.png">
 </p>
 
 
