@@ -1,15 +1,8 @@
 title: Agbo Perpetual 
 email: agboperpetual835@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This website was designed to help you learn how to add featured images to posts and post rolls.
-  To watch video training and learn more, view the readme file on my [GitHub repo](https://github.com/BillRaymond/jekyll-featured-images).
-baseurl: "/jekyll-featured-images" # the subpath of your site, e.g. /blog
-url: "https://billraymond.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: billraymonde
-github_username:  billraymond
-
-# only get the first sentence for the excerpt
-excerpt_separator: .
+github_username:  
 
 # Build settings
 theme: jekyll-theme-minimal
