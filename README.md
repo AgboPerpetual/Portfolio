@@ -24,7 +24,7 @@ Curriculum: Comprehensive training in data analysis, machine learning and data v
 
 Curriculum: Fundamentals in Digital Marketing, Marketing analytics and measurement, Email Marketing
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="Asset/Digi_cert.png">
 </p>
 
 
