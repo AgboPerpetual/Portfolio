@@ -1,4 +1,4 @@
-# MY PORTFOLIO
+# DATA ANALYST
 ## Education
 
 ### Google Data analytics Certification, Coursera 2023
