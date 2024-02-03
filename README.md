@@ -3,6 +3,7 @@
 
 ### Google Data analytics Certification, Coursera 2023
 Curriculum: Data Collection, data cleaning with excel and SQL, analyzing data with R programming, Data visualization       using excel, Tableau and R. Completed hands-on project using real world data.
+<img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100">
 
 ### Microsoft Scholarship program on Power Platform 2023
 Curriculum: Creating PowerApps using real life data, data analysis and visualization using Power BI, automate a business process using power automate, creating of web power pages using the power page platform.
