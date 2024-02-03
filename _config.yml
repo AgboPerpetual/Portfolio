@@ -1,5 +1,5 @@
-title: Featured Images Tutorial
-email: your-email@example.com
+title: Agbo Perpetual 
+email: agboperpetual835@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website was designed to help you learn how to add featured images to posts and post rolls.
   To watch video training and learn more, view the readme file on my [GitHub repo](https://github.com/BillRaymond/jekyll-featured-images).
@@ -12,7 +12,7 @@ github_username:  billraymond
 excerpt_separator: .
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
