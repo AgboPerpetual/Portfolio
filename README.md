@@ -17,7 +17,7 @@ Curriculum: Creating PowerApps using real life data, data analysis and visualiza
 
 Curriculum: Comprehensive training in data analysis, machine learning and data visualization.
 <p align="center">
-  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+  <img width="460" height="300" src="Asset/U_cert.png">
 </p>
 
 ### Digital Marketing Certification, Google Scholarship Program on Coursera 2022 
