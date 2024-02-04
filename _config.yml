@@ -1,16 +1,8 @@
-title: Agbo Perpetual 
-description: "Email: Agboperpetual835@gmail.com"
-twitter_username: billraymonde
-github_username:  
 
-# Build settings
-theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
 
 title: Agbo Perpetual 
 
-logo:
+logo: "My_picture_1.jpeg"
 
 description: Data science and AI in agriculture - where bytes and botany blend for a better world. # Fix hyphenation 
 
@@ -21,6 +13,6 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-seo-tag # Add SEO plugin
 
-email: youremail@gmail.com # Allow visitors to contact you
+email: Agboperpetual835@gmail.com
 
 
