@@ -1,23 +1,3 @@
-
-# DATA ANALYST
-
-## 🎓 Education
-
-### Data Science Certification, Udemy 2022      
-
-Curriculum: Comprehensive training in data analysis, machine learning and data visualization.
-<p align="center">
-  <img width="360" height="200" src="Asset/U_cert.png">
-</p>
-
-
-
-### Google Data analytics Certification, Coursera 2023 
-
-Curriculum: Data Collection, data cleaning with excel and SQL, analyzing data with R programming, Data visualization       using excel, Tableau and R. Completed hands-on project using real world data.
-
-<p align="center">
-  <img width="360" height="200" src="Asset/Cert_image.png">
 </p>
 
 
@@ -30,9 +10,15 @@ Curriculum: Creating PowerApps using real life data, data analysis and visualiza
 
 Curriculum: Fundamentals in Digital Marketing, Marketing analytics and measurement, Email Marketing
 <p align="center">
-  <img width="360" height="200" src="Asset/Digi_cert.png">
+  <img width="460" height="300" src="Asset/Digi_cert.png">
 
- # contacts 
- 
+## 📞 Contact
 
+| **Name**   | Agbo Perpetual Chekwube | 
+| **E-mail**   | <a href="agboperpetual835@gmail.com">albertoogy@gmail.com</a> | 
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/allan-victor-6919b4152/" target="_blank">Visit Page</a> | 
+</p>
+
+
+# PROJECTS
 
