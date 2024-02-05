@@ -7,7 +7,7 @@
 
 Curriculum: Comprehensive training in data analysis, machine learning and data visualization.
 <p align="center">
-  <img width="460" height="300" src="Asset/U_cert.png">
+  <img width="360" height="200" src="Asset/U_cert.png">
 </p>
 
 
@@ -17,7 +17,7 @@ Curriculum: Comprehensive training in data analysis, machine learning and data v
 Curriculum: Data Collection, data cleaning with excel and SQL, analyzing data with R programming, Data visualization       using excel, Tableau and R. Completed hands-on project using real world data.
 
 <p align="center">
-  <img width="460" height="300" src="Asset/Cert_image.png">
+  <img width="360" height="200" src="Asset/Cert_image.png">
 </p>
 
 
@@ -30,7 +30,7 @@ Curriculum: Creating PowerApps using real life data, data analysis and visualiza
 
 Curriculum: Fundamentals in Digital Marketing, Marketing analytics and measurement, Email Marketing
 <p align="center">
-  <img width="460" height="300" src="Asset/Digi_cert.png">
+  <img width="360" height="200" src="Asset/Digi_cert.png">
 
  # contacts 
  
