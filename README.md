@@ -32,11 +32,11 @@ Curriculum: Fundamentals in Digital Marketing, Marketing analytics and measureme
 <p align="center">
   <img width="460" height="300" src="Asset/Digi_cert.png">
 
- ## Contact 📞
+ ## Contact
 
  
 
-# PROJECTS
+## PROJECTS
 
 
 
