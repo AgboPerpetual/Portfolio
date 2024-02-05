@@ -1,6 +1,7 @@
-# DATA ANALYST
-## Education
 
+# DATA ANALYST
+
+## 🎓 Education
 
 ### Data Science Certification, Udemy 2022      
 
@@ -30,7 +31,16 @@ Curriculum: Creating PowerApps using real life data, data analysis and visualiza
 Curriculum: Fundamentals in Digital Marketing, Marketing analytics and measurement, Email Marketing
 <p align="center">
   <img width="460" height="300" src="Asset/Digi_cert.png">
+
+## 📞 Contact
+
+| **Name**   | Agbo Perpetual Chekwube | 
+| **E-mail**   | <a href="agboperpetual835@gmail.com">albertoogy@gmail.com</a> | 
+| **LinkedIn**   | <a href="https://www.linkedin.com/in/allan-victor-6919b4152/" target="_blank">Visit Page</a> | 
 </p>
+
+
+# PROJECTS
 
 
 # PROJECTS
