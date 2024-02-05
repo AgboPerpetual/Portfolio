@@ -43,6 +43,4 @@ Curriculum: Fundamentals in Digital Marketing, Marketing analytics and measureme
 # PROJECTS
 
 
-# PROJECTS
-
 
