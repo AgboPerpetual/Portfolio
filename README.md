@@ -31,6 +31,10 @@ Curriculum: Fundamentals in Digital Marketing, Marketing analytics and measureme
 <p align="center">
   <img width="460" height="300" src="Asset/Digi_cert.png">
 
+
+
+# PROJECTS
+
 📞 Contact
 
 ### Name  Agbo Perpetual Chekwube 
@@ -38,5 +42,3 @@ Curriculum: Fundamentals in Digital Marketing, Marketing analytics and measureme
 ### LinkedIn <a href="https://www.linkedin.com/in/allan-victor-6919b4152/" target="_blank">Visit Page</a> | 
 </p>
 
-
-# PROJECTS
