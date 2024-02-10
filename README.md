@@ -34,7 +34,7 @@ Curriculum: Fundamentals in Digital Marketing, Marketing analytics and measureme
 📞 Contact
 
 ### Name  Agbo Perpetual Chekwube 
-### E-mail <a href="agboperpetual835@gmail.com">albertoogy@gmail.com</a> | 
+### E-mail <a href="agboperpetual835@gmail.com">agboperpetual835@gmail.com</a> | 
 ### LinkedIn <a href="https://www.linkedin.com/in/allan-victor-6919b4152/" target="_blank">Visit Page</a> | 
 </p>
 
