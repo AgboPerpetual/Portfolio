@@ -34,6 +34,16 @@ Curriculum: Fundamentals in Digital Marketing, Marketing analytics and measureme
 
 
 # PROJECTS
+ - thsis ahfre teehbh jdhueis hsunx hcg uwiiwhdn chw
+ - gyusdwjnkjjcjiocomnjvic
+ - jhfhjknkmnc
+ - cjnjnkkc'
+ - jnbcjnkcjc
+ -  ncbjjjhcjhj
+
+   
+   
+ 
 
 📞 Contact
 
