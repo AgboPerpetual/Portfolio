@@ -14,9 +14,7 @@ show_downloads: true # Fix spelling
 
 theme: jekyll-theme-minimal 
 
-plugins:
-  - jekyll-seo-tag # Add SEO plugin
 
-email: Agboperpetual835@gmail.com
+
 
 
